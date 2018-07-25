@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Business } from '../Business/Business';
-import 'BusinessList.css';
+import './BusinessList.css';
 
 
 
