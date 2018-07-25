@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './SearchBar.css';
 
 const sortByOptions = {
@@ -46,4 +46,4 @@ export class SearchBar extends React.Component {
     }
 }
 
-export default SearchBar;
+

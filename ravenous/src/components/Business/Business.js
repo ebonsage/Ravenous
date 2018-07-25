@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './Business.css';
 
 const business =  {
@@ -42,4 +42,4 @@ export class Business extends React.Component {
     }
 }
 
-/*export default Business;*/
+
